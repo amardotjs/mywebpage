@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+body{
+    background-color: black;
+}
+.paragraph{
+    color: green;
+    font-family:monospace;
+    font-size: large;
+
+}
+h2{
+    text-align: center;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+img{
+    max-width:50%;
+    max-height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:400px;
+    border: 0.1cm solid ;
+}
+.socialmedia{
+     color: green;
+    background-color:black;
+    border: 10px cm;
+    border-color: green;
+    color: white;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 4px;
+    cursor: pointer;
+    border-radius:1cm;
+    display: block;
+    font-family: monospace;
+    margin-left: auto;
+    margin-right: auto;
+}
+p3{
+    margin-left: auto;
+    margin-right:auto;
+    background-color: black;
+    color: green;
+    border-radius: 2cm;
+    font-family:Consolas;
+    border:3px solid;
+    border-color: green;
+}
+div{
+    text-align: center;
+}
