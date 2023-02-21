@@ -7,3 +7,6 @@ function gmail(){
 function youtube(){
     window.open("https://www.youtube.com/channel/UCeugZNs_0gyUIvytBnl0Dng")
 }
+function discord(){
+    window.open("https://discord.gg/utVYrQa33v")
+}
